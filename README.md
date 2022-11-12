@@ -1,4 +1,4 @@
-### Hi there, I am Anastasija 👋
+### Hi there, I am Anastasia 👋
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
