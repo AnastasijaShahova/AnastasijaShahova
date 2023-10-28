@@ -1,17 +1,8 @@
 ### Hi there, I am Anastasia 👋
-
-<hr>
-<!-- MAIN PHRASE SECTION -->
-<span align="center">
-  <span>
-    <h4 align="center">"<em>If you think it's simple, then you have misunderstood the problem.</em>"
-      <span align="center">Bjarne Stroustrup</h4>
-</span>
-   
+ 
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="center">I love to code, to create a problem and solve it</h3>
-  <ul>
+<ul>
     <li>🔭 I’m <strong>C++ developer</strong></li>
     <li>🌱 I’m currently learning <strong>С++, SQL, Python...</strong></li>
     <li>📫 How to reach me <strong>shahowa.anastasija@yandex.ru<strong></li>
