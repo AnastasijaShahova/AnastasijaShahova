@@ -28,8 +28,6 @@
 <hr>      
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-   <a href="https://www.linkedin.com/in/anastasia-shahova-9a25b6239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Anastasia Shahova" height="35" width="45" /></a>
-  <a href="https://www.instagram.com/anastasiya__shahova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anastasiya_shahova" height="35" width="45" /></a>    
+   <a href="https://www.linkedin.com/in/anastasia-shahova-9a25b6239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Anastasia Shahova" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/anastasiya__shahova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anastasiya_shahova" height="50" width="50" /></a>    
 </p>
-
-  
