@@ -4,7 +4,7 @@
 <hr>
 <ul>
     <li>🔭 I’m <strong>C++ developer</strong></li>
-    <li>🌱 I’m currently learning <strong>С++, Swift...</strong></li>
+    <li>🌱 I’m currently learning <strong>Swift...</strong></li>
     <li>📫 How to reach me <strong>shahowa.anastasija@yandex.ru<strong></li>
   </ul>
 
